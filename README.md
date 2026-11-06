@@ -1,1 +1,1 @@
-# vsb-scribe
+# vsb-novella
